@@ -1,0 +1,1658 @@
+{
+  "generated": "2025-10-08T11:28:18.960Z",
+  "totalVideos": 9,
+  "categories": {
+    "funny": 3,
+    "machinima": 3,
+    "cartoons": 3
+  },
+  "videos": [
+    {
+      "identifier": "Pbtestfilemp4videotestmp4",
+      "title": "test file mp4",
+      "description": "this is a test file for site",
+      "creator": "Pb",
+      "date": "Unknown",
+      "downloads": 28198665,
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+      "rights": "Check archive page for license details",
+      "category": "funny",
+      "videoFiles": [
+        {
+          "name": "video_test.mp4",
+          "originalFilename": "10",
+          "format": "MPEG4",
+          "size": "1462498",
+          "directLink": "https://archive.org/download/Pbtestfilemp4videotestmp4/video_test.mp4",
+          "streamingLink": "https://archive.org/stream/Pbtestfilemp4videotestmp4/10"
+        },
+        {
+          "name": "video_test.ogv",
+          "originalFilename": "11",
+          "format": "Ogg Video",
+          "size": "931068",
+          "directLink": "https://archive.org/download/Pbtestfilemp4videotestmp4/video_test.ogv",
+          "streamingLink": "https://archive.org/stream/Pbtestfilemp4videotestmp4/11"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/Pbtestfilemp4videotestmp4",
+      "archiveURL": "https://archive.org/details/Pbtestfilemp4videotestmp4"
+    },
+    {
+      "identifier": "AboutBan1935",
+      "title": "About Bananas",
+      "description": "Complete presentation of the banana industry from the clearing of the jungle and the planting to the shipment of the fruit to the American markets.",
+      "creator": "Castle Films",
+      "date": "1935-01-01T00:00:00Z",
+      "downloads": 27192688,
+      "license": "http://creativecommons.org/licenses/publicdomain/",
+      "rights": "Check archive page for license details",
+      "category": "funny",
+      "videoFiles": [
+        {
+          "name": "AboutBan1935.mp4",
+          "originalFilename": "5",
+          "format": "h.264",
+          "size": "68512128",
+          "directLink": "https://archive.org/download/AboutBan1935/AboutBan1935.mp4",
+          "streamingLink": "https://archive.org/stream/AboutBan1935/5"
+        },
+        {
+          "name": "AboutBan1935.ogv",
+          "originalFilename": "7",
+          "format": "Ogg Video",
+          "size": "46417991",
+          "directLink": "https://archive.org/download/AboutBan1935/AboutBan1935.ogv",
+          "streamingLink": "https://archive.org/stream/AboutBan1935/7"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/AboutBan1935",
+      "archiveURL": "https://archive.org/details/AboutBan1935"
+    },
+    {
+      "identifier": "HealthYo1953",
+      "title": "Health: Your Posture",
+      "description": "Young girl's mirror image teaches her fundamentals of good posture.",
+      "creator": "Centron Corporation",
+      "date": "1953-01-01T00:00:00Z",
+      "downloads": 10632015,
+      "license": "http://creativecommons.org/licenses/publicdomain/",
+      "rights": "Check archive page for license details",
+      "category": "funny",
+      "videoFiles": [
+        {
+          "name": "HealthYo1953.mp4",
+          "originalFilename": "6",
+          "format": "h.264",
+          "size": "66520877",
+          "directLink": "https://archive.org/download/HealthYo1953/HealthYo1953.mp4",
+          "streamingLink": "https://archive.org/stream/HealthYo1953/6"
+        },
+        {
+          "name": "HealthYo1953.ogv",
+          "originalFilename": "8",
+          "format": "Ogg Video",
+          "size": "45485910",
+          "directLink": "https://archive.org/download/HealthYo1953/HealthYo1953.ogv",
+          "streamingLink": "https://archive.org/stream/HealthYo1953/8"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/HealthYo1953",
+      "archiveURL": "https://archive.org/details/HealthYo1953"
+    },
+    {
+      "identifier": "FinalFantasy2_356",
+      "title": "Final Fantasy II (SNES) - 3:56 - Kevin Juang",
+      "description": "Speed run of Final Fantasy II in 38 segments completed on December 19 2005. Available in low quality only, video quality is poor when moving in the overworld. Timing note: Game's timer is referenced at its last visible point, then real time from then to final damage numbers appearing is added. Resulting time is rounded up to the next whole minute since the game timer could've have been :59 seconds at the last visible moment. Author's comments: First, I would like to thank my friend Kyle for lending me his working cart, Persona and Radix for hosting, Ben Siron (Wizard201) for his now 11-year-old algorithms FAQ , and Peter Tiernan for his previous run , which gave me the necessary motivation. I've wanted to do this for years now, and I made my goal sub 4 hours without really knowing if it could be done. Peter's 4:15 looked really good, and I only gained more respect for it as I was trying to beat it. My main speed advantage, along with better luck manipulation, is that I avoid leveling almost the entire game, only fighting two regular enemy fights. This makes for some very tense boss fights, with new strategies for most of them. It's amazing to note how perfectly the stars have to align for this minimalist run to even be possible. Kain needs to have enemy übergear, Rydia needs to have Warp for early dark crystal, and FuSoYa needs to have Lunarian übergear. Incidentally, the point about minimizing leveling was stressed in my original post, but I certainly don't blame Peter for his leveling, as I'm sure it was much less annoying that way. There are two main innovations that I came up with for speedrunning FF2. Unfortunately, for both of them, I know of no other game where they work so well: 1) At minimal levels and equipment, the run hits a roadblock at Valvalis, who just attacks too fast, for too much damage. I developed a \"tanking\" strategy, where I remove all of Kain's newly issued armor and give it all to Cecil. When someone dies, all they get is a Life1 and no more healing. Eventually I abuse Cecil's auto-cover to the point where he is taking all the hits for the entire team with his inflated defense. 2) Harvesting enemies is somewhat of an RPG tradition, but usually harvesting top-of-the-line enemies is not feasible because they are too dangerous and take too long to kill. By using FuSoYa's Weak, however, I level the playing field and earn 26-27 levels each for Rosa and Cecil, fighting two Dragon Machine fights in the Giant. Now for some comments on mistakes: 1) I only have one working controller, and it rattles and is breaking down, so if I screw up while moving the cursor to the beat or pause slightly while walking in a straight line or seem to let go while running away or something like that, you can blame it on the controller. I estimate all this only adds up to several seconds anyway, but it might look stupid. I actually do kinda suck at button mashing though. =p 2) I make three blatant mistakes, all dealing with items. I save just enough money to buy a Tent in Fabul, but somehow I just don't buy it and I didn't notice until I kinda needed one later after Magus Sisters. I also unnecessarily used a Cabin before fighting the Elements. Both of these waste about 15 seconds. Also, the Calbrena & Golbez segment that went the best was also the one where I forgot to sort my inventory before the battles. This costs between 5-10 seconds. Fortunately, since I make it at the tail end of 3:55, I think the final time would have been the same. Combine this with better button mashing and control from #1, as well as some miscellaneous junk, and it all adds up to 3:54. 3) My biggest regret, while it doesn't waste any time, is actually not switching lead characters nearly enough. I have no explanation; I mean, I do this while normally playing, but I guess I was preoccupied, heh. For the curious but lazy, here are the items I get: - some items like Cure1, Ether1, Ether2, Tent, Cabin, 2 Elixirs, Ninja star, etc - I buy a bunch of items (in Fabul, then Baron, then Dwarf Castle) like Cure1, Cure2, Life, Heal, Cabin, etc - Kain and FuSoYa's EQ - Darkness sword - Fire sword - Earth hammer - Catclaw - Blizzard spear - Dragoon EQ - Protect ring - White robe - Crystal sword Now on to the segment comments, with a short FAQ section afterwards! I'll try not to make fun of the plot too much, as it has enough plotholes and dei ex machinis to feed a third world nation. But I really do admire the simple, heartfelt purity of the story. Really. 1) Just some story stuff, including the \"crossing the bridge\" sequence. We get to see the dummied items that confused American gamers for years! 2) Mist Dragon fight went well. Sorry about your mom, Rydia! =( 3) I guess the trauma made Rydia forget how to summon Titan, which is pretty lame. Cecil serves some Soldier beatdown and then makes sure to talk to Rosa reeeal slowly so that she doesn't talk twice. 4) When I get Tellah, I temporarily get a Cecil with Tellah colors walking around. This looks pretty neat, and is obviously also a secret cheat that doubles my powers of awesome. Oh yes, I have been asked several times, wouldn't it be better to level Rydia up some with Tellah's Lit1? Although this might seem to make sense, I have extensively tested and it really is better not to level at all. Rydia's extra levels are only really useful to Lit1 Octomamm, as during Antlion and Mombomb, she uses Chocobo and has enough MP. 5) Rydia just parries against Octomamm and gets a Life1 from Tellah near the end. I could use Chocobo or Rod, but her damage is not nearly as time-efficient as Cecil or Tellah, who are both able to exploit elemental weaknesses. Besides, I actually need that one extra Chocobo against Antlion. 6) Edward is such a pansy. Also a spoony bard! I personally think Tellah is so focused on the delivery of this killer insult, that he forgets to hit Edward during the fight. 7) \"Worry not. Antlion is tame.\" I love that. Anyway, using Ether1 and Cure1 on Rydia and being Operation Human Shield is as useful as Edward will ever be in a fight. Taking 2 damage and dying while at 2 HP will also not be on his highlight reel. 8) What will be on his highlight reel, however, is the time he singlehandedly took down the mighty Water Hag! Ok, not really singlehandedly... he needed the loving encouragement of his dead girlfriend. At least he doesn't die in this fight; I think I've had that happen before. My brother tried to rag on me while watching for parking the hovercraft suboptimally outside Kaipo, but if you keep on watching, I get the last laugh! In other news, if I was Rydia, the first thing I would do after learning Fire1 is cast it on Cecil. This is, of course, in lieu of the Titan that she previously forgot. 9) I make the safe play and Cure1 Cecil after Mombomb explodes. Rydia usually doesn't survive as long as she does after that. I could have tried to make Edward survive the Explode (I think this is actually as close as he ever got), but since I want the Bombs to be exploding and not falling asleep, it's actually better this way. I considered just parrying with Edward, but sadly his 40-50 total damage here usually makes the difference in Rydia being able to Chocobo immediately after Explode. 10) When the King of Fabul asks the women to stay behind to help nurse, I always get confused why Edward doesn't go with them. ;) But seriously, look how much he just gets in the way during the fighting. It would have been better if he had just died so I wouldn't have to keep controlling his hidden self. And at the end, he even trips on the carpet and falls flat on his face, resulting in an extra fight! What a pansy. Oh and I really wish it was possible to cast Warp here; that Dark Elf cave later on is pretty stupid. 11) Cecil would have been suspicious of the twins' ulterior motive, but then Palom said \"I can't stop thinking about dark knights! They're cool... and by cool, I mean totally sweet.\" POW! If you notice, I was really channeling Winston Churchill while walking to Mt Ordeal. 12) I need to get Comet, then two Flares to make the first Milon fight go quick. He counters everything with Lit1, and it's all about Twin, so Tellah is best served mostly healing. 13) I need at least two out of three Flares against Milon Z. Again, it's all about Twin. I also tried sneaking in some offensive Cure2's, but I couldn't ever win with only two Twin's, even both being Flare. Oh, and Porom and especially Palom need all the EXP they can get, in order to learn Cure2 and Lit2 respectively, right before Kainazzo. What I don't understand is why Milon has to throw himself off the cliff like that. Doesn't death only make him stronger? He'd be pretty unstoppable after a while, if you ask me. 14) This is when people typically level up Cecil. The effect it has on later characters is usually overstated. The difference in Yang's level based on a level 1 Cecil and a level 9 Cecil? 13 and 14. 15) Our intrepid heroes totally run right over that little girl in the inn. 16) Palom and Porom must have known that Baigan was an imposter by the fact that the party would have had six people! Knowing this, they later turn themselves to stone once you get Cid. (Maybe the Enterprise only seats five.) All jokes aside, this segment is extremely difficult. Flare is reflected by Wall, so I need Comet against Baigan. I also need to time the second Ice3 correctly so that it goes off right after his Wall wears off. Cecil promptly celebrates by gaining seven levels. Against Kainazzo, I need Palom's Lit2 to get in there or else I can't win. It would have been nice to have Porom survive Wave, but in the end this fight is all about Tellah, and Cecil and Yang know this. After the fight, we witness the debut of Convenient Cid. I call him this because, well, he conveniently decides to come to the rescue right after the two difficult fights. 17) I love how semantically, the metal paralysis bit is completely inconsequential. Say hi to the Wizards from FF1. Astos himself is impressively buff before Edward's music turns him into just another GameFAQs poster with bad grammar and poor netiquette. Speaking of which, I love how Edward's crowning achievement in this game is walking four whole steps without his attendants. In retrospect, I think the Dark Elf would like to take a mulligan on that \"ME CHANGE!\" bit. Hmm, the Eight Clerics really do seem naÃ¯ve letting Cecil just take the crystal away like that. But how could they really stop him anyway? They're just clerics; the best they could do is to threaten to not heal him or something. 18) Now I know why Kain betrays Cecil. He couldn't resist the opportunity to get his own sweet airship ride! And yes, that really is the best way to fight the Flame Dog. 19) Do you ever wonder how much more dangerous the opposition would be if they ever taught Revive to more than one person in a party? The traditional thing to do versus the Magus Sisters is to bounce magic off your Wall, but I eschew that and just go with good timing. You would think that the post-Cindy part of the fight might go a bit quicker if Tellah never casts anything but Ice3 and so gets an extra one, but somehow when I tried it that way several times, it was actually slower due to chance and everyone else having to use Cure1 and Life1 more instead of attacking. I do think it's better in theory, but what can you do other than keep the fastest segment? Anyway, this is supposed to be a tough fight even at normal levels, so after this embarrassment, the Magus Sisters decide to turn themselves into giant insects. It's true! 20) If only Tellah had 9 more MP, I could smash through this game. Good thing I'm speedrunning, or Rosa would have been crushed! I love how, even though she knows Valvalis is around, Rosa doesn't bother casting Exit ASAP and waits until the tower is about to collapse. This costs me around seven minutes. Actually, Rosa could have just cast Exit in the first place. Maybe making out with Cecil restored her MP! Anyway, I've heard of not sharing the remote, but this is beyond ridiculous. 21) During the crossfire, it's interesting to note that both sides must consider the Enterprise as an \"Enemy Airship.\" It warms my heart to know that Do Make Say Think must have been big fans of FF2. Oh, and I know he's a main character, but Cecil really needs to work on his waking up skills. 22) Another set of two very difficult boss fights. We know what that means! It's time for Convenient Cid to exit the house, although he could have just, you know, used that remote control he was just bragging about. I've been asked before, so I'll mention that I need to kill the dolls this way so that Calbrena doesn't form, which is an unwinnable fight. If you notice, at the end of the fight, I parry with Cecil. This is to get him to stop tanking, since I need Cecil to have close to full HP to have any sort of chance against Golbez. People have a hard time believing this, but it really is impossible to get Kain into the air versus Golbez at low levels. You know, I think it'd be pretty useful if Rydia had a Shadow Dragon of her own to summon. I'm not sure why I hesitate using Cure2 with Rydia, since you NEED Lit3 to hit Cecil and might as well reset if it doesn't happen. I actually win with one final hit from Cecil on the way, which I didn't think was possible. Speaking of not thinking something was possible, I'll just assume there's a secret entrance to the locked crystal room I don't know about. I know seeing a dismembered hand might be a little freaky, but Cecil really needs to work on his reaction time. But that's ok. Warp! Rydia, I love you. =) 23) You might wonder why I get the Catclaw, as it only seems to raise Yang's attack by 1. However, it also gives STR+5 and AGI+5. This is just enough to increase his attack multiplier by 1 each. (And no, the additional STR+5 of the Bandanna I pass up does not make a difference.) So in actuality, Yang's base attack goes from 129 to 220. By my calculations, it wasn't worth picking up the Charm claw (AGI+3) or the Poison claw (STR+3) earlier. But it is possible based on the random nature of stat increases at level-ups that it could have been worth picking up either one or the other, and then rerolling after boss fights for good stat-ups. That's a level of insanity that should be reserved only for Famitsu Wave (GameWave) DVD. 24) Long story short, this really is the fastest way for me to do Lugae and Balnab. At least Rydia's spells are optimized. I like how Yang's sad music lasts for all of five seconds before the next random encounter happens and it goes away. Ooh, there's Convenient Cid again. Good thing we don't actually have to fight Golbez this time, or he might not have come at all! Hmm, two apparent kamikaze suicides in one segment. That must be some sort of record. 25) By the 15th consecutive time I saw the airship remodeling sequence, I really wish I'd done it in the previous segment. And you think I'm kidding. 26) I guess Glare could be considered a kind of Flame. Here's a fun game: every PC in FF2 has one specific plot moment where they and they alone can allow the party to proceed. A lot of them are hard to come up with, but perhaps none are as unmemorable as Edge's. \"Watch! (me bust through the wall)\" I'm a little miffed that the segment I kept wasn't one of the ones where I got surprised by an Egg. That's always good times. 27) My brother informed me that moving to the music during Edge's parents' farewell scene was a bit tasteless. Oh well. I don't know exactly how fiery rage would draw out Edge's hidden power of Flood, but I'll take it. More fun with timing. Cecil can't attack because Rubicant counters with AOE, and he can't parry because he needs to be tanking. So he is relegated to item use. Man, the Chamberlain and Company must be decently leveled to breeze through this dungeon that the legendary heroes just had a tough time with. Every time I see this scene I want to beat him up and steal his sprint shoes. They also show up just in time to not be able to help out against Rubicant. The Chamberlain must have been taking lessions from Convenient Cid! Hmm, if the good guys had thought of building pitfalls at the entrances of their crystal rooms, that would have made things a lot easier. I remember when I was a little kid, I tried casting Float upon entering the room. It didn't work because, you know, that would actually make sense. Skipping past a bad Iron Man joke, I absolutely love Rydia and Rosa's comments at the Falcon: \"It's not yours!\" \"Isn't this a trap or something?\" Good thing Edge doesn't subscribe to morals or reason. I could imagine the rest of the party just sitting there for days. 28) I shouldn't have disequipped the Blizzard spear here; I thought I would be able to Dart it later for some reason. Another poor soul gets run over, this time a black mage in Mysidia. Wait, I think he's that bastard that casts Piggy on you. Justice is served! After all the theatrics, I know I can't possibly be the only one who was let down by the Big Whale hype train the first time. I would have thought it would have looked more big and more whale-like and less like, say, a Hummer H3 with tail fins. 29) Those Lunarians sure would be useful to have at raves, what with their bright flashing colors and all. I wonder if we are really supposed to believe that this is Earth, in the Milky Way galaxy. Maybe FuSoYa was still feeling the effects of all that ecstasy. 30) Yes, it's true that the Giant of Babel would have destroyed the entire world. FuSoYa just neglected to mention that at that rate, it would have taken roughly 10,000 years. Just like Rydia, I take every opportunity to actually say \"Screeeam!\" It's great fun; you should try it. 31) It almost certainly wasn't worth the couple of seconds to swap the Diamond ring. I level up Rosa first so that she can get Cure3 for the second Dragon Machine fight. 32) The mass suicide part of the fight goes a lot better this time. As well as mass suicides can be expected to go, at any rate. 33) Wow, I get some massive framedropping during this segment. The highly dangerous part of this fight is that even if she's waiting for it, Rosa isn't fast enough at this level to be able to heal after Storm before Valvalis can attack to kill someone. Because of this, I try to cast Cure4 in the dark, anticipating Storm. I don't know how it worked this time really. Let's just say the unnecessary Life2 of Cecil was due to an unpleasant experience I had once, walking back with FuSoYa. 34) My original strategy for this fight was to Meteo, use the last Ether1 on FuSoYa, and Meteo again for the win. Let's just say this led to many angry fist pounds as the CPU refused to Globe199 the correct people. Then I discovered that the CPU's Wall wears off around the Globe199 stage. Well, that was easier. Oh, I don't think Edge knows that it isn't possible to \"get rid of\" hypnotized Kain in one-on-one combat; he will just cheat and kick your ass with aimbot. Cecil's idea at the end is extremely arbitrary and dumb, but at least the women vote themselves back on the island. I wouldn't want all that powerleveling to go to waste. 35) What a short segment, that could have went with the previous one. And with semi-respectable levels, there's not even any danger of wiping this time! 36) I really hated redoing this segment so many times. It didn't help that twice the power went out when I was having insanely good luck. Then the power went out again. For five whole days. Then I had to continue doing this segment over again after all of that. 37) I am so glad there's a save point right there, because Mega Nuke is almost never that cooperative. 38) Of course, the opposite of that is this segment. Sad that this fight is mostly boring attrition, but then again, Zeromus was never really the life of the party. ending) I will allow the writers just a small truckload of sappiness. Q: Why does it look so blurry when you walk around? You should have done this on VCR and sent it to Nate or something! A: Honestly, I wouldn't have even attempted this on a VCR; it terrifies me just thinking about it. Using my capture card, it takes about 5-10 seconds of downtime between failed segments. And my hard drive doesn't have enough space to encode all the different SDA flavors or even hold all the Huffyuv originals. The videos probably could have stood to use some more kbps, but it looks more than fine to me, and that's the bottom line. I offer you my deepest apologies if it truly bothers you though. Q: Why so many segments? A: To put it simply, usually to minimize random encounter time. Bosses are obviously no joke, either. All that optimization adds up. Q: I can't believe you made these little mistakes! Shouldn't you have redone all of those segments? A: I need to stress that I actually recorded most of these segments 20-30 times, keeping the best one. Strangely enough, the first time I won many battles was eventually the one I had to keep. You need to remember that damage varies wildly in this game, and in a segment in which I might make a mistake which costs a couple seconds, the battle might go extremely well, saving much more time. Incidentally, the wildly varying damage is why sometimes it might appear like I'm unnecessarily healing. I do overheal some, but probably not more than five or so specific instances in the entire run. Q: Any ideas for improvements? A: Well, besides flawless play and even better luck manipulation, there are a couple things. One is gaining a few less levels, and offloading some of the level gain (some leveling is needed to beat the Elements) to harvesting Attacker and Defender using Quake. I didn't do the former because retrying Zeromus 50+ times didn't sound like my idea of fun, and I didn't do the latter because it is too difficult without emulator help to safely comprehend. The other possible improvement is more interesting. My test runs made me settle on getting the equipment I did as optimal. However, I now believe that it would be better to buy 4 Headbands after fighting Yang in Baron and to take a quick trip to Rydia's house to pick up the Change rod and Tiara after getting the Enterprise. The STR+5 of the Headbands would allow the fighters to hit their next attack multiplier a little earlier, and the combined WIS+15 of Rydia's gear increases her magic multiplier by 4. I know the tendency is usually to try to pick up too much, but in this case, I'm pretty sure this is correct, despite the extra time that it takes. Q: What about future work? A: Well, because of all the work involved, I don't anticipate ever doing this again myself, and maybe my talk of all these retries will scare off everyone else. I will estimate, however, that it would be possible to approach 3:45 with absolutely perfect play and a GameWave level of masochistic dedication, and probably 3:20 with a TAS. However, I am more than satisfied with 3:55. Q: Why was this writeup so damn long? A: I'm sorry.",
+      "creator": "Kevin 'Enhasa' Juang",
+      "date": "2005-01-01T00:00:00Z",
+      "downloads": 6853560,
+      "license": "Unknown",
+      "rights": "Check archive page for license details",
+      "category": "machinima",
+      "videoFiles": [
+        {
+          "name": "FinalFantasy2_ending.ogv",
+          "originalFilename": "430",
+          "format": "Ogg Video",
+          "size": "82239471",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_ending.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/430"
+        },
+        {
+          "name": "FinalFantasy2_356_part38.ogv",
+          "originalFilename": "425",
+          "format": "Ogg Video",
+          "size": "76183594",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part38.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/425"
+        },
+        {
+          "name": "FinalFantasy2_356_part24.ogv",
+          "originalFilename": "369",
+          "format": "Ogg Video",
+          "size": "62887966",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part24.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/369"
+        },
+        {
+          "name": "FinalFantasy2_356_part31.ogv",
+          "originalFilename": "397",
+          "format": "Ogg Video",
+          "size": "55391664",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part31.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/397"
+        },
+        {
+          "name": "FinalFantasy2_356_part32.ogv",
+          "originalFilename": "401",
+          "format": "Ogg Video",
+          "size": "53318063",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part32.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/401"
+        },
+        {
+          "name": "FinalFantasy2_356_part20.ogv",
+          "originalFilename": "353",
+          "format": "Ogg Video",
+          "size": "50952592",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part20.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/353"
+        },
+        {
+          "name": "FinalFantasy2_356_part10.ogv",
+          "originalFilename": "313",
+          "format": "Ogg Video",
+          "size": "50526704",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part10.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/313"
+        },
+        {
+          "name": "FinalFantasy2_356_part22.ogv",
+          "originalFilename": "361",
+          "format": "Ogg Video",
+          "size": "49606528",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part22.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/361"
+        },
+        {
+          "name": "FinalFantasy2_356_part16.ogv",
+          "originalFilename": "337",
+          "format": "Ogg Video",
+          "size": "42386670",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part16.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/337"
+        },
+        {
+          "name": "FinalFantasy2_356_part17.ogv",
+          "originalFilename": "341",
+          "format": "Ogg Video",
+          "size": "38471264",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part17.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/341"
+        },
+        {
+          "name": "FinalFantasy2_356_part27.ogv",
+          "originalFilename": "381",
+          "format": "Ogg Video",
+          "size": "36093569",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part27.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/381"
+        },
+        {
+          "name": "FinalFantasy2_356_part28.ogv",
+          "originalFilename": "385",
+          "format": "Ogg Video",
+          "size": "34662891",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part28.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/385"
+        },
+        {
+          "name": "FinalFantasy2_356_part01.ogv",
+          "originalFilename": "277",
+          "format": "Ogg Video",
+          "size": "31861130",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part01.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/277"
+        },
+        {
+          "name": "FinalFantasy2_356_part13.ogv",
+          "originalFilename": "325",
+          "format": "Ogg Video",
+          "size": "28843497",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part13.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/325"
+        },
+        {
+          "name": "FinalFantasy2_356_part33.ogv",
+          "originalFilename": "405",
+          "format": "Ogg Video",
+          "size": "28409967",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part33.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/405"
+        },
+        {
+          "name": "FinalFantasy2_356_part34.ogv",
+          "originalFilename": "409",
+          "format": "Ogg Video",
+          "size": "25387553",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part34.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/409"
+        },
+        {
+          "name": "FinalFantasy2_356_part36.ogv",
+          "originalFilename": "417",
+          "format": "Ogg Video",
+          "size": "23902419",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part36.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/417"
+        },
+        {
+          "name": "FinalFantasy2_356_part30.ogv",
+          "originalFilename": "393",
+          "format": "Ogg Video",
+          "size": "23868862",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part30.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/393"
+        },
+        {
+          "name": "FinalFantasy2_356_part09.ogv",
+          "originalFilename": "309",
+          "format": "Ogg Video",
+          "size": "22269965",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part09.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/309"
+        },
+        {
+          "name": "FinalFantasy2_356_part11.ogv",
+          "originalFilename": "317",
+          "format": "Ogg Video",
+          "size": "21397686",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part11.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/317"
+        },
+        {
+          "name": "FinalFantasy2_356_part07.ogv",
+          "originalFilename": "301",
+          "format": "Ogg Video",
+          "size": "20904198",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part07.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/301"
+        },
+        {
+          "name": "FinalFantasy2_356_part19.ogv",
+          "originalFilename": "349",
+          "format": "Ogg Video",
+          "size": "20823574",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part19.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/349"
+        },
+        {
+          "name": "FinalFantasy2_356_part18.ogv",
+          "originalFilename": "345",
+          "format": "Ogg Video",
+          "size": "19942696",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part18.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/345"
+        },
+        {
+          "name": "FinalFantasy2_356_part03.ogv",
+          "originalFilename": "285",
+          "format": "Ogg Video",
+          "size": "19683439",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part03.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/285"
+        },
+        {
+          "name": "FinalFantasy2_356_part26.ogv",
+          "originalFilename": "377",
+          "format": "Ogg Video",
+          "size": "18658422",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part26.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/377"
+        },
+        {
+          "name": "FinalFantasy2_356_part08.ogv",
+          "originalFilename": "305",
+          "format": "Ogg Video",
+          "size": "17790932",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part08.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/305"
+        },
+        {
+          "name": "FinalFantasy2_356_part37.ogv",
+          "originalFilename": "421",
+          "format": "Ogg Video",
+          "size": "17231090",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part37.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/421"
+        },
+        {
+          "name": "FinalFantasy2_356_part15.ogv",
+          "originalFilename": "333",
+          "format": "Ogg Video",
+          "size": "17083238",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part15.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/333"
+        },
+        {
+          "name": "FinalFantasy2_356_part05.ogv",
+          "originalFilename": "293",
+          "format": "Ogg Video",
+          "size": "16418334",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part05.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/293"
+        },
+        {
+          "name": "FinalFantasy2_356_part25.ogv",
+          "originalFilename": "373",
+          "format": "Ogg Video",
+          "size": "16246580",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part25.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/373"
+        },
+        {
+          "name": "FinalFantasy2_356_part23.ogv",
+          "originalFilename": "365",
+          "format": "Ogg Video",
+          "size": "16216918",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part23.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/365"
+        },
+        {
+          "name": "FinalFantasy2_356_part04.ogv",
+          "originalFilename": "289",
+          "format": "Ogg Video",
+          "size": "15037472",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part04.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/289"
+        },
+        {
+          "name": "FinalFantasy2_356_part06.ogv",
+          "originalFilename": "297",
+          "format": "Ogg Video",
+          "size": "14688972",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part06.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/297"
+        },
+        {
+          "name": "FinalFantasy2_356_part29.ogv",
+          "originalFilename": "389",
+          "format": "Ogg Video",
+          "size": "14356525",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part29.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/389"
+        },
+        {
+          "name": "FinalFantasy2_356_part21.ogv",
+          "originalFilename": "357",
+          "format": "Ogg Video",
+          "size": "12322115",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part21.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/357"
+        },
+        {
+          "name": "FinalFantasy2_356_part02.ogv",
+          "originalFilename": "281",
+          "format": "Ogg Video",
+          "size": "11878468",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part02.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/281"
+        },
+        {
+          "name": "FinalFantasy2_356_part14.ogv",
+          "originalFilename": "329",
+          "format": "Ogg Video",
+          "size": "11600917",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part14.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/329"
+        },
+        {
+          "name": "FinalFantasy2_356_part12.ogv",
+          "originalFilename": "321",
+          "format": "Ogg Video",
+          "size": "11215014",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part12.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/321"
+        },
+        {
+          "name": "FinalFantasy2_356_part35.ogv",
+          "originalFilename": "413",
+          "format": "Ogg Video",
+          "size": "4511975",
+          "directLink": "https://archive.org/download/FinalFantasy2_356/FinalFantasy2_356_part35.ogv",
+          "streamingLink": "https://archive.org/stream/FinalFantasy2_356/413"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/FinalFantasy2_356",
+      "archiveURL": "https://archive.org/details/FinalFantasy2_356"
+    },
+    {
+      "identifier": "BanjoTooie_100p_45413",
+      "title": "Banjo-Tooie (N64) - 100% w/death abuse 4:54:13 - Peter Branam-Lefkove",
+      "description": "Speed run of Banjo-Tooie in 12 segments completed on December 19 2005. Uses save warping and abuses death to save time. Available in four versions: low, normal, high and insane quality. Author's comments: Credits: Nate - For capturing the run from VHS Radix - For hosting the run mike89 - His Banjo Tooie 100% Speed Guide was a great starting point for strategizing my own routes, and had a few tricks that I probably wouldn't have thought of myself (such as getting the grenade eggs early to defeat Old King Coal faster) Jish - He had originally been working on a Banjo Tooie run awhile ago, and offered a lot of good advice, including a trick I had overlooked for getting Banjo's jiggy in the toxic waste plant, sans sack pack. (Unfortunately the advice came too late for me to actually incorporate any of it, though.) And thanks to bunch of people from the SDA discussion topic for moral support and random pieces of advice. (Jason the SDA Guest, NintenDan, Pikachu025, Bulblax, XIF, Soteos, Ikanaki, StrangenessDSS... hopefully I'm not forgetting anyone) So, where to begin? The 100% definition for this run was as follows: -Must obtain all collectables that the game keeps track of: Jiggies, Empty Honeycombs, Cheato Pages, Glowbos, Notes, Jinjos, Jamjar's Moves -All of the \"Stop n' Swop\" related items must be collected (the two secret eggs, the Ice Key, and the Mega Glowbo) -Although all of the above items must be collected, they do not actually have to be put to use (returning empty honeycombs for additional health or cheato pages for cheats is optional; returning the two secret eggs for cheats is optional; using the mega glowbo to obtain Dragon Kazooie Transformation is optional, although this run chooses to use it). Things that just unlock other cheat codes (Visiting Madame Grunty, hatching Heggy's Golden Egg), because they are not needed or noticeable, are optional. The Amaze-o-Goggles are also optional for the same reasons. So how did this run come to be? Well, I had originally been interested in doing a Banjo Kazooie Speedrun last year. However, Marshmallow was already working on his run at that time. So I went with Super Mario Sunshine instead. After finishing my Majora's Mask 100% run, I read the discussion topic for this project and, seeing it in need of a runner, chose to adopt it. Of course it goes without saying that this run was a rather hefty undertaking. With such massive levels and so much overlap between them, planning the route was a considerable project. That took about two and a half weeks (thankfully mike89's guide meant I didn't have to start completely from scratch); the run itself took over two and a half months to record. I ended up with these level times: Spiral Mountain - 5:14 Isle o' Hags - 27:44 Mayahem Temple - 19:41 Glitter Gulch Mine - 22:35 Witchyworld - 35:47 Jolly Roger's Lagoon - 24:35 Terrydactyland - 33:39 Grunty Industries - 38:39 Hailfire Peaks - 35:54 Cloud Cuckooland - 30:09 Cauldron Keep - 20:16 Total Time - 4:54:13 Of course, this is with segmentation and gratuitous abuse of death and save warps. Still, given the expectations for this run at the time of its creation, Sub-5 is pretty impressive. Well, I think that covers the basics. Hopefully you'll be satisfied with the final product. Enjoy! If you have any questions or comments about this run, my AIM screenname is XDragornX. A few more things to note: Unfortunately, Rare chose to model the controls for the game's first-person areas after control style 1.1 from Goldeneye/Perfect Dark. This rather sucked for me, being a 1.2 user myself... thankfully there aren't too many first person areas, though. Of the three first-person area minigames (Targitzan's Temple, Ordnance Storage, Clinker's Cavern), the first two are fine; Clinker's Cavern is the sloppiest, because it's the only one that requires accurate shooting while strafing around. My strategy for balancing the Clockwork Kazooie Egg (CK Egg) Supply was definitely imperfect; however, it still went surprisingly well, considering that I was basically just making it up as I went along. My strategy called for picking up both egg nests along the mountaintop route in Terrydactyland as CK Eggs; unfortunately, the timing on them is rather random and I missed both. I compensated for this by picking up two different CK Eggs later in that segment, at the expense of several seconds (these were rather poor choices, as the egg nests I run by in Spiral Mountain in the next segment would have required significantly less waiting). I also miss two CK Egg shots during the run; I compensate for the second one by picking up an extra egg near the end of Cloud Cuckooland. (This also wasn't the best choice, as there were two nests in Grunty Industries during the final segment that would have required slightly shorter waiting periods.) In the beginning of the run, I wasn't aware of the \"pressing B in midair in talon trot form to revert to regular Banjo\" trick. I learned of it by reading Marshmallow's comments for his Banjo Kazooie Run. I don't start using it until Segment Three, so there are a couple of places in the first two segments where it would have been beneficial. As I mentioned earlier, this run abuses death warps a great deal, and a lot of times killing yourself as quickly as possible can be a random affair (enemies always refuse to be where you want them). I realized mid-run the excellent technique of using grenade eggs for \"assisted suicide\" (i.e. fire them into a wall at low health to take damage from the explosion). This trick was very useful in the later segments, and probably would have saved time for the Pump Room Death Warp in Witchyworld, at the very least. Most of my minigame completions are nothing special. (My Witchyworld ones in particular are rather sucky.) They all take a set amount of time regardless of your score, so I wasn't really motivated to optimize them. The exception is the Pot of Gold, which ends early if you hit all 100 jiggies. I end it with a few extra seconds left; it's not great, but certainly not terrible either. Jiggy Wiggy's Puzzles are a nightmare. The early ones are simple, but the later ones are exercises in randomness and infuriation. My later puzzles definitely have their share of mistakes, although I'm not sure if they actually count towards the in-game time anyway. Some level-specific comments: Mayahem Temple My first trip through this level was very smooth overall. The only notable mistake was pausing too soon right at the end of the segment. The Golden Statue sequence is extremely... unforgiving. Even with near-perfect movement, you only have about 2 seconds for error. The flying sequence afterwards is also very tricky. (Accidentally landing on the temple roof while collecting the jiggy is disastrous, and it's also very easy to crash when beak bombing towards the cheato page.) My second trip through the level is mainly notable for its heavy abuse of CK Eggs. Glitter Gulch Mine In the first trip through this level, I purposely don't collect the prison cell jinjo. The camera angle for this area is very bad, and when you factor in the two narrow doorways that must be navigated and the detonator's very bouncy and difficult to control movement, you've got a real mess on your hands. So it's just much easier to collect the jinjo in BK form during the second trip (as you have to visit that area anyway). One interesting point of strategy for his level involves Canary Mary's Races; the first race transports you from one end of the level, by the entrance, to the other, by the train station. The second race does the reverse. Both races were completed at specific times to take full advantage of these warps. Returning the four empty honeycombs at the end of the first trip, while not required, is very helpful. As mike89 mentions in his guide, trying to get stuff done as Kazooie Solo with only one health piece later is just unreasonable. Witchyworld One significant mistake here was my not noticing the brat kid's presence in the Dodgem Dome lobby. I had to make an extra trip back there during the second Witchyworld visit to hit him, which wasted time. Of course, the combination of kid's locations that you get it completely random and significantly impacts the strategy for the second trip. Ideally for my strat, both the fat kid and the girl should be in the inferno; I got stuck with a terrible combination (fat kid in the train station and girl in Crazy Castle Stockade). On that note, I think now that it might actually be beneficial to pick up the fries during the first trip. You go by two of the girl's three possible locations (CC Stockade and the Star Spinner; her Inferno location would also only be a minor detour) during the first trip, and giving her the fries then would be a nice timesaver. This is assuming, of course, that you can just get the burgers during the second trip, and use them to feed the fat kid and all three oogle boogles. (I haven't actually checked, but I don't see why not.) Also, I really hate Mr. Patch. Having such a random battle at the end of a long segment is not fun. Overall, I'd say my battle was pretty good; not my best, but certainly acceptable (especially as I had multiple good runs ruined by terrible Patch Battles). A lot of tasks in this level are left until the second trip, when they can be completed more efficiently using later moves. This even includes activating the train station, which some people may find to be an odd move. Jolly Roger's Lagoon It's worth nothing that you can actually complete this level without using Mumbo's Sunlight Spell. Now that is just damn cool to watch. Unfortunately, this level also has a lot of randomness. You've got a lot of stuff that is randomly determined when you enter the level, so you can't beat it with Future Knowledge. This includes: -the code for the Temple of Fishes -the location of Davy Jones's Locker -the entire Boss Fight (the order in which the boils light up is randomized... thankfully my battle was all right) -the locations of the seemee items (It saves some time if the honeycomb piece is in the big fish cavern instead of the lockers area. Thankfully, I got lucky with this.) -The trick I use to get the jinjo in the alcove above the bay. (If you jump out of the water from a wave at max height, you can actually grab onto the ledge and pull yourself up. It's very hard to do consistently, and took me several attempts on my run. Still, it is the best way I found; using the running shoes would require an extra doubloon, and the other possible solution [using Banjo Solo and his double jump] is obviously out of the question.) In the second visit to this level, I got screwed over when the electric eel in the Ancient Swimming Baths decided to swim behind a rock, thus thwarting my attempts to kill him. He then proceeded to attack me while I was setting up the following CK Egg shot, costing some time. Thankfully I was still able to pull it off and get out of there w/o too much loss. I also wasted some time missing a note nest with the talon torpedo outside the UFO. Terrydactyland This level, in addition to Hailfire Peaks, was one of the hardest to plan for. However, I think you'll find that it has a very efficient route. The multi-level nature of the central hub of the level permits you to drop down from high areas to lower ones, allowing for some very nice shortcuts. Unfortunately at one point during the first trip I accidentally warp to the wrong place. This doesn't cost too much time, but just looks bad and rather irks me. Oh yes, watch out for the neat glitch used to pick up the treble clef in Giant Rex Form. Grunty Industries Ah yes... the longest level of the game, all the route planning, optimizing, and sequence breaking in the world still couldn't tame this beast. As far as mistakes, there is one point during the first trip where I suffered a total brain fart and completely forget was I was doing; I spend several seconds as Banjo Solo running stupidly into the door of the Electromagnet Chamber before I realized what was going on. I also made my second (and thankfully last) missed CK Egg shot in the Train Station. During the second trip, I fell off a catwalk in Clinker's Cavern, costing a bit of time. Still, this level has some pretty neat tricks in it, including reaching the upper levels of the factory early by exploiting Kazooie Solo. This level is also home to what is, no holds barred, the most intense moment of the entire run. The trick at the very end of the first trip involves crossing the spinning beam that spans the length of the Repair Depot. I insisted on doing this, as collecting the relevant Cheato Page after beating Weldar (when the beam has stopped spinning) requires an incredibly lengthy climb up the area's ladder, which I just couldn't allow. By itself, this trick is very difficult. One's timing must be absolutely impeccable; if you hit the jump button too soon, you'll feathery flap in midair (i.e. you're screwed); and once you've touched back down on the spinning beam, you have a very small interval of time in which you must jump again before getting brushed off (i.e you're still screwed). Once you factor in the pressure of having 40 minutes of work ride on the outcome of this sequence, you see just how difficult it really is. I think I held my breath for its duration. Hailfire Peaks Like TDL, you can do a lot of crazy stuff on the fire side of this level by dropping from high areas to lower ones. I think you'll be impressed with my route. I also traverse Icicle Grotto backwards (getting glide first and then working down to the entrance), which is pretty cool. Uh... honestly can't think of anything else... no really notable mistakes here... Cloud Cuckooland This level is unique as being the only one (besides Cauldron Keep, although that hardly counts) that gets cleared out in a single trip. The segment for this level required the most restarts, as my strategy required specific locations for the two different Skulls (Mingy Jongo in the Blue one and Mumbo in Red). I would assume that the two different combinations have equal probabilities of occurring, but after I restarted 5 or so times in a row because of this, I started to doubt it. Because of all the restarts, I was a bit more forgiving of tiny mistakes later in the level. (The locations of items in the dirt patches at the beginning of the level are also randomized when you enter, although that's not nearly as big of a deal.) In addition to the Skulls, the other element of randomness in this level comes from those FREAKING BEE ENEMIES. ARRRGH. Those damn things are everywhere, and getting hit by one almost always results in falling off the course and a mandated restart. You'll notice that I'm very cautious around them. I used a pen for Canary Mary. You can see I was faltering at the beginning of the first race before I finally got my rhythm down. Unfortunately having a numb arm at the end of the second race doesn't make the remaining part of the segment any easier. This level is also home to what is probably the biggest mistake of the run. Near the very end, I screw up shooting the Wasp Statue and actually have to restart on it. Naturally this had never happened in any practice runs. I probably should've thrown the segment out, but having just survived Canary Mary and the rest of the segment being pretty good, I just couldn't stand the idea of restarting at this point. It's not THAT bad anyway. Cauldron Keep Not much to see here. Klungo battle is very smooth. Many people might not know that you can jump through the laser grid outside. I didn't do as well in Tower of Tragedy as usual. However I still had some fun answering questions blindly during the last round. My Grunty Battle is smooth enough, but just seems uneventful to me. However I still managed to squeeze one last neat trick in there. :) Wow, I really hadn't intended to write a novel here. Kudos if you actually read all that. I hope you enjoy(ed) the run!",
+      "creator": "Peter 'Dragorn' Branam-Lefkove",
+      "date": "2005-01-01T00:00:00Z",
+      "downloads": 5337393,
+      "license": "Unknown",
+      "rights": "Check archive page for license details",
+      "category": "machinima",
+      "videoFiles": [
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part12.ogv",
+          "originalFilename": "334",
+          "format": "Ogg Video",
+          "size": "181174863",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part12.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/334"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part12.ogv",
+          "originalFilename": "382",
+          "format": "Ogg Video",
+          "size": "180926121",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part12.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/382"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part12.ogv",
+          "originalFilename": "481",
+          "format": "Ogg Video",
+          "size": "180692188",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part12.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/481"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part12.ogv",
+          "originalFilename": "430",
+          "format": "Ogg Video",
+          "size": "173275737",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part12.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/430"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part10.ogv",
+          "originalFilename": "374",
+          "format": "Ogg Video",
+          "size": "168224683",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part10.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/374"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part10.ogv",
+          "originalFilename": "326",
+          "format": "Ogg Video",
+          "size": "168210398",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part10.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/326"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part10.ogv",
+          "originalFilename": "473",
+          "format": "Ogg Video",
+          "size": "167371492",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part10.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/473"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part07.ogv",
+          "originalFilename": "362",
+          "format": "Ogg Video",
+          "size": "166714225",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part07.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/362"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part07.ogv",
+          "originalFilename": "314",
+          "format": "Ogg Video",
+          "size": "166661298",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part07.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/314"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part07.ogv",
+          "originalFilename": "461",
+          "format": "Ogg Video",
+          "size": "165885916",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part07.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/461"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part10.ogv",
+          "originalFilename": "422",
+          "format": "Ogg Video",
+          "size": "163332526",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part10.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/422"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part09.ogv",
+          "originalFilename": "370",
+          "format": "Ogg Video",
+          "size": "162984139",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part09.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/370"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part09.ogv",
+          "originalFilename": "322",
+          "format": "Ogg Video",
+          "size": "162884432",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part09.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/322"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part09.ogv",
+          "originalFilename": "469",
+          "format": "Ogg Video",
+          "size": "160946711",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part09.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/469"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part07.ogv",
+          "originalFilename": "410",
+          "format": "Ogg Video",
+          "size": "160004514",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part07.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/410"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part09.ogv",
+          "originalFilename": "418",
+          "format": "Ogg Video",
+          "size": "155210712",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part09.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/418"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part03.ogv",
+          "originalFilename": "346",
+          "format": "Ogg Video",
+          "size": "147027604",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part03.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/346"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part03.ogv",
+          "originalFilename": "298",
+          "format": "Ogg Video",
+          "size": "146923899",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part03.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/298"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part03.ogv",
+          "originalFilename": "445",
+          "format": "Ogg Video",
+          "size": "146423985",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part03.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/445"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part03.ogv",
+          "originalFilename": "394",
+          "format": "Ogg Video",
+          "size": "144601536",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part03.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/394"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part05.ogv",
+          "originalFilename": "354",
+          "format": "Ogg Video",
+          "size": "144417591",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part05.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/354"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part05.ogv",
+          "originalFilename": "306",
+          "format": "Ogg Video",
+          "size": "144218065",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part05.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/306"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part05.ogv",
+          "originalFilename": "453",
+          "format": "Ogg Video",
+          "size": "143190997",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part05.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/453"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part05.ogv",
+          "originalFilename": "402",
+          "format": "Ogg Video",
+          "size": "139896632",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part05.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/402"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part02.ogv",
+          "originalFilename": "294",
+          "format": "Ogg Video",
+          "size": "117158366",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part02.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/294"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part02.ogv",
+          "originalFilename": "342",
+          "format": "Ogg Video",
+          "size": "117119496",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part02.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/342"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part02.ogv",
+          "originalFilename": "441",
+          "format": "Ogg Video",
+          "size": "116648936",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part02.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/441"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part02.ogv",
+          "originalFilename": "390",
+          "format": "Ogg Video",
+          "size": "114037471",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part02.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/390"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part04.ogv",
+          "originalFilename": "350",
+          "format": "Ogg Video",
+          "size": "111886366",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part04.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/350"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part04.ogv",
+          "originalFilename": "302",
+          "format": "Ogg Video",
+          "size": "111858390",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part04.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/302"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part04.ogv",
+          "originalFilename": "449",
+          "format": "Ogg Video",
+          "size": "111735738",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part04.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/449"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part04.ogv",
+          "originalFilename": "398",
+          "format": "Ogg Video",
+          "size": "109717034",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part04.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/398"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part01.ogv",
+          "originalFilename": "290",
+          "format": "Ogg Video",
+          "size": "96726825",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part01.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/290"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part01.ogv",
+          "originalFilename": "338",
+          "format": "Ogg Video",
+          "size": "96726424",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part01.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/338"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part01.ogv",
+          "originalFilename": "437",
+          "format": "Ogg Video",
+          "size": "96462786",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part01.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/437"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part01.ogv",
+          "originalFilename": "386",
+          "format": "Ogg Video",
+          "size": "93249232",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part01.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/386"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part11.ogv",
+          "originalFilename": "477",
+          "format": "Ogg Video",
+          "size": "71027783",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part11.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/477"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part11.ogv",
+          "originalFilename": "330",
+          "format": "Ogg Video",
+          "size": "70653373",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part11.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/330"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part11.ogv",
+          "originalFilename": "378",
+          "format": "Ogg Video",
+          "size": "70267301",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part11.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/378"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part11.ogv",
+          "originalFilename": "426",
+          "format": "Ogg Video",
+          "size": "67816793",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part11.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/426"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part08.ogv",
+          "originalFilename": "318",
+          "format": "Ogg Video",
+          "size": "55813750",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part08.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/318"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part08.ogv",
+          "originalFilename": "366",
+          "format": "Ogg Video",
+          "size": "55797743",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part08.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/366"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part08.ogv",
+          "originalFilename": "465",
+          "format": "Ogg Video",
+          "size": "55547461",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part08.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/465"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part08.ogv",
+          "originalFilename": "414",
+          "format": "Ogg Video",
+          "size": "54433943",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part08.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/414"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_IQ_part06.ogv",
+          "originalFilename": "358",
+          "format": "Ogg Video",
+          "size": "42955913",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_IQ_part06.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/358"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_HQ_part06.ogv",
+          "originalFilename": "310",
+          "format": "Ogg Video",
+          "size": "42952457",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_HQ_part06.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/310"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_part06.ogv",
+          "originalFilename": "457",
+          "format": "Ogg Video",
+          "size": "42888235",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_part06.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/457"
+        },
+        {
+          "name": "BanjoTooie_100p_45413_LQ_part06.ogv",
+          "originalFilename": "406",
+          "format": "Ogg Video",
+          "size": "42247682",
+          "directLink": "https://archive.org/download/BanjoTooie_100p_45413/BanjoTooie_100p_45413_LQ_part06.ogv",
+          "streamingLink": "https://archive.org/stream/BanjoTooie_100p_45413/406"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/BanjoTooie_100p_45413",
+      "archiveURL": "https://archive.org/details/BanjoTooie_100p_45413"
+    },
+    {
+      "identifier": "ZeldaMajorasMask_100p_655",
+      "title": "Zelda: Majora's Mask (N64) - 100% 6:55 - Peter Branam-Lefkove",
+      "description": "Speed run of The Legend of Zelda: Majora's Mask with 100% item collection in 29 segments, completed on August 5 2005. Available in 3 versions: low, normal and high quality. Author's comments: Special Thanks to: Radix - For somehow managing to violate the laws of the internet and host all these runs with no fees Nate - For capturing the run TSA - For his Ikana Castle Sequence break, idea for Stone Tower sequence break, and various little tricks I picked up from his exploratory run. Most importantly, his work finally sparked some speedrun discussion for OOT's sorely overlooked sequel pyh189 - For the improved Great Bay Temple route; also one of the first to discover the damage-boosting trick, among other things StrangenessDSS - For the excellent Snowhead Temple Sequence Breaks & Goht/Gyorg strats Now, where to begin? First, the definition of 100% completion for this game, along with my rationale in choosing a 4-Cycle-Strategy, is outlined in the MM 100% Discussion Topic: http://speeddemosarchive.com/yabb/YaBB.pl?board=consoles_newer;action=display;num=1118613852 For a Zelda speedrun, the route is always of utmost importance; for this run, it's much more so. Majora's Mask has an incredible amount of sidequests and optional tasks. With so many events, many of which depend upon one another, and some that can only be performed at certain times (more on the game's internal clock in a moment), the route really has a lot to account for. I spent about 3 weeks mapping everything out in a gigantic Excel document and playtesting it to fix all the problems, and even then, I still had a few hitches in the final product (nothing too serious, thankfully). These problems arose from the game's internal clock, which really makes speedrunning frustrating. Even minor discrepancies in execution speed in the run can add up and make you too late (or, preferably, too early) for events. Alternatively, new time-saving tricks that are discovered & implemented midway through the run can screw up the time schedule. Unfortunately, I experienced both of these problems (see the discussion for segments 7 & 21 below for details). Of course, the in-game clock isn't all bad. I've always been fascinated with just how much stuff one could theoretically accomplish in a single cycle; as this run shows, it's pretty astounding. In Cycle 2, I got 30+ Pieces of Heart and 13 Collectible Masks, in addition to completing the 4 Temple and collecting their fairy's' gifts (and this is by no means maximized efficientcy; for this run, a lot of quests had to be left for the last 2 cycles, just so that there would be stuff available to kill time between various time-constrained events). Well, that should cover the basics. An awful lot of work went into this, so I hope its enjoyable. If you have any questions or comments about this run, my AIM screenname is XDragornX. Segment-by-Segment Comments: 1. A rather short and boring segment, mostly cut scenes. Very smooth overall, although the entering of the name at the beginning was a bit sloppy. Still, not really that big of a deal. (If I was really hardcore, I would've just entered my name as \"A,\" But we have to draw the line somewhere.) 2. Not much to say about this segment. Very smooth, but still, the first cycle is rather boring. Just a couple of minor mistakes, such as jumping off the festival tower the wrong way. I reached the golden flower surprisingly quickly, though. I also think that running under the skull kid so that he drops the ocarina right on top of you is a neat trick. 3. This is where things start to get a bit more interesting. Another very smooth segment; the only real mistake was backwards-walking into the grotto near the end of the run; however, I did intend to visit this location eventually anyway, so I was able to get the rupees and deku stick from there then instead, with no harm done. 4. Very frustrating segment; the deku palace guards and flying-platform sequences are both great places for ruining runs. This was a very smooth segment overall, although I lost a few seconds from one of the dragonflies. It actually isn't necessary to kill them at all, but I felt like playing it safe. This segment is also one of two points in the run where I have to take a pictograph of something, to be used in a later segment. It's definitely nerve-wracking, since you don't find out if your pic is acceptable until it's too late to do anything about it... 5. Good segment overall. Neither of the completions of the swamp shooting game were perfect. It's not really that big of a deal. When the game is counting down your extra time for bonus points, it removes seconds from the timer slightly faster than a rate of one-timer-second per real-time-second. So getting two flawless completions of the game would be a minor improvement. I can't believe I had to waste time waiting for that stupid goron to get out of the way in the Inn... ugh. I thought my completion of the Deku Scrub Game was satisfactory, although I know that it can be done much faster. I admit that I didn't do too much research into this mini game, so I don't know how much difficulty and/or luck is involved in faster strats. I got a bit sloppy near the end of this segment, mainly with the back flipping up the ledges in the route to Mt. Village. 6. Good crossing of invisible platforms. Scaling the cliff w/o lens of truth is a nice touch, even if it doesn't affect overall time. The most impressive trick is hitting the correct urn on the chandelier in one try. It was a major pain to figure this out. And even then, given the amount of waiting time involved with my method, it can probably be done faster. 7. This segment is where I ran into my first major hiccup. Somehow, I managed to get about 2 hours ahead of my Test Run target time. Since two hours of downtime waiting for Sakon would be unacceptable, I needed a suitable filler task. The town shooting gallery, which, incidentally, takes about two hours, fit the bill very nicely. I had originally slated it for completion in cycle 3 though, so it's removal from there did cause some minor problems later on. Now, this was an excellent segment overall. I made 3 minor errors in Fortress's Heart Piece room, but that's really it (OK, I also lost a little time by accidentally donning the goron mask in clock town). My downtime waiting for Sakon to attack the Bomb Shop Woman was nice and low (although, it was still longer than usual, on account of the exceptional performance in the Fortress). 8. Holistically, a fine segment. Two minor mistakes in the temple (missed a fire arrow shot in the room with the snow enemies and a missed shot in second wizrobe battle). Goht, however, screwed me over. He managed to score a hit with his lightning when he was almost dead. This could have been a catastrophe, but, I was able to finish him off after he ran a lap around the arena. So, it wasn't too bad. Given that the rest of the temple went very well, I felt justified in keeping this segment. 9. The Spider House went fine. Remember, if my actions at some points seem a bit strange, it's because I don't have a sword. Good segment overall. Notable mistake was falling off the laundry pool ramp. 10. Goron Race went surprisingly well. Getting knocked into a tree wasn't as much of a setback as I would've expected. 11. The Zora Pot Game that I use for a quick 90-rupees is surprisingly overlooked. I'd say it's one of the fastest ways to earn money during the daylight hours. Once you can do it consistently, it's easy money. There isn't too much to say about the Beaver Races. They are a rather tedious affair... I only crashed into one ring though. 12. 2nd part of woodfall went very well. Biggest mistake was taking two attempts for the ledge jump in the 2nd-to-last room. Excellent Odolwa Battle. My method for getting the Castle Garden Heart Piece is notable. It would have been preferable to do this with the stone mask, but that wasn't an option. So, using two bomb jumps to bypass the guards is a surprisingly effective substitute. It only takes a few seconds longer than just running through the garden with the stone mask on (and it sure looks cooler). The Butler Race was all right. It's actually possible to cross last set of platforms w/o deactivating their flame rings, but I didn't want to risk it. 13. This is a very short segment, because its sandwiched between long ones, neither of which I wanted to make any longer. The Deku Scrub game was all right. Excellent Peahat Battle. 14. Using the song of double time at this point is necessary (because I'm entering the graves soon), and it also makes it tremendously easier to bomb-jump across the fences. Here, I use an improved version of the bomb-jumping trick--by facing the fences from the right angle, it's possible to \"graze\" the top of the fence as you pass over, landing on the other side w/o having to endure the several-second recovery period. The Keeta Battle was... Meh. Not terrible, but could have been better. Got hit twice, although only one of them was really my fault. First Iron Knuckle was perfect. The \"stalagmite-jump\" to get the Song of Storms on Night 2 is incredibly difficult to perform consistently. I almost never get it in one shot. I was pleasantly surprised. 2nd Iron Kunckle could have gone better. I didn't get hit, but he blocked several attacks during his second phase. Very aggravating. And finally... skipping the garos mask. The first two parts (the bomb jump and the side jump) are easy. Running across the thin ridge, however, is the moment of truth. I didn't fall. I was practically in shock. Sadly, the first really serious error of the run comes at the end of this segment--the hookshoting up the trees to reach the Owl Statue. The rest of the segment having gone so well, I admit to cracking under the pressure. This was pretty bad. When I rewatched this segment, I thought it was inexcusable; but actually, pyh189 made the same mistake in his 3:37 run, so maybe it isn't so devastating after all. Overall, this is a very difficult segment with many high precision tricks and two very difficult glitches, so I'm still quite satisfied with it. 15. Nothing too much to say here. The well strategy is pretty standard fare by now, although goron-rolling through the spikes near the end is a nice touch. Nothing too notable in Ikana Castle either. I used a little time-saver in the \"spiders room,\" (you can reach the switch in the corner w/o the deku flower) and I think I used the most effective strategy for incorporating the sequence break along with collecting the outdoor heart piece. Boss Battle could have gone better. 16. My Swamp Spider House Strategy was centered on avoiding using the Sonata of Awakening on the sleeping Deku Scrub, since there is a very long and annoying cinema associated with that. Rolled into a freaking blue bubble on the way to Stone Tower--Argh. 17. Stone Tower Temple Part 1 went nicely. Good Garo Master Battle. Most interesting part is probably minor sequence break used in Eyegore Room. There is some luck involved with the sequence of quests out in Termina Field--mainly, whether you'll be able to pick up enough extra magic. I got enough. It takes six light arrows to kill the two dodongos (an alternative strat is to use bombs against them, but it's a bit slower and a lot more difficult). 18. Pinnacle Rock went very smoothly. 6/8 eels went down very quickly, the other two took an extra couple of seconds. Pirate's fortress was very good. Both sequence breaking tricks were executed quickly and correctly. The pirate battle was decent. The worst part of this segment (and probably the second really serious mistake of the run) is the fish gathering near the end. This just took a ridiculously long time. Granted, it is harder than it looks. I used Zora Link here because he is taller than regular link, and thus can stand in deep water where regular link would have to swim. So, theoretically, he should be able to catch fish in deeper water. Unfortunately, I think his height may also make him swipe too high, missing a lot of fish. So this is definitely an area for improvement. Also, even with that possible change, there is still a great deal of randomness involved with the fish's' movements, so I probably should have just put this at the beginning of the next segment anyway. Meh, still a great segment overall. (FYI, I have to bottle those fish around this time in the run, because they disappear after Gyorg is defeated. Strange.) 19. Very nice segment. Wart Battle was OK. Had some bad luck near the end, the last remaining bubble hit me and foiled my aim. I also lost a few seconds at one point by swimming into a wall, and I took 3 shots to hit the pot at the bottom of the giant, central room, and thus had to waste some time waiting for the next propeller to swing around. Other than that, everything was good. Gekko Battle was all right. Excellent Gyorg Battle. 20. Good execution on the sequence-breaking trick. Gomess went down without a hitch. Pretty Good Twinmold Battle. If this segment and the next seem a bit disjointed, it's because the end of cycle 2 is approaching, and all the remaining loose ends have to be tied up. 21. The deposition of these 3 fish is completely random (you only get the HP if the same fish eats all 3), so it definitely belongs at the beginning of a segment. Now, unfortunately, the Fisherman's game doesn't reopen until 7 PM. Getting there too early wasn't a problem during my test run, but, unfortunately, due to all the time saved by the improved Gyorg Battle and Stone Tower Route, I had way too much downtime, and thus had to play the inverted song of time twice... (which is still faster than just manually waiting for all that time to pass). This is why the internal clock sucks. For the fisherman's jumping game, its possible to jump directly from one torch platform to another, bypassing the central one (the bunny hood probably makes this a lot easier). So I'm sure this could be exploited for ridiculously high scores. But, you only 20 to get the HP, and you can't end it early, so whatever. Finally, this segment is the first instance of Rupee Gathering (harvesting rupees by shooting blue bubbles with light arrows out in east termina field). This process is greatly augmented by the bunny hood (obtained very early on in cycle 3), and the biggest problem is usually lack of magic (but thankfully, lots of later rupee gathering is done with the aid of chateua romani). A note about cycles 3 and 4. Compared to Cycle 2, they are rather... anticlimactic. Mainly, they are both structured around the Anju/Kafei Sidequest. So there are a bunch of events that have to be done at certain times, and lesser quests and activities are used to kill time as necessary between these events. Just a fair warning. 22. I think it's fair to say that around the beginning of cycle 3, my overall play quality went downhill a bit. I became a lot more lenient about little mistakes and really just wanted to finish this damn thing. This is evidenced by my rolling straight into a wall right off the bat of this segment. Screwed up the input of the bet at the racetrack. Got first place at the track, which is pretty unusual. My strategy was designed for getting second-place, so I had to change things a little to factor in the extra 90 rupees. Rounding up the chicks for the bunny hood went surprisingly well. There's so much randomness there, and one chick usually manages to hide and foul everything up. Epona's game was all right, although the last balloon took too much time. The strat is still solid, though. Lost a few seconds for stupidly saying \"no\" to Romani. Gorman Race was fine. 23. I *hate* the treasure chest game. Incredibly, incredibly random. This one went beautifully, though. Bombchu Gallery also went very nicely. The listening to of the grandma story here was actually unnecessary. In my test run, I got to the Inn two hours later because of the town shooting gallery, and thus, listening to the grandma story put me in night 1 (so there was no need for the song of double time). In this case though, I had to use the song of double time after the story, so I should have skipped the story here entirely and gotten this HP later. Oh well. Lost some time (and also 2 rupees, although that's not really important) because I jumped the gun in the postman's game. Stupid. Swordsman's school game went fine. 24. As I mentioned earlier, the bunny hood really helps to streamline the rupee gathering process. The bubbles tend to respawn right as you're reaching them, so the whole thing goes nice and smoothly. I got to the ranch way too early (another adverse side effect of those missing two hours). If my movements there seem a bit erratic, it's just because I'm trying to kill downtime between shooting the aliens. There wasn't any real point to climbing up on top of the house. 25. Basket Bombing went fine. I had a bit of downtime while waiting for Kafei to get into position. Protecting the Milk Cart was a bit odd. I've never seen the bandits get so close and then ride along the side like that, near the end. Still, no danger of actually losing. Target shooting was decent. 26. This segment starts out with the slightly-tricky glitch for entering Sakon's Hideout. What's really nice, however, is doing it with him not even seeing you. That let's you skip not only the incredibly long cut scene of him entering the hideout himself, but also his little exclamation of innocence from noticing you. I lost a little time in the hideout by stepping on 3 red switches in one room. I also lost a little time with Dampe because I got too far away from him. Getting all 3 parts of the Big Poe to appear in the right dirt patches is a matter of luck, so this segment took a lot of restarts. I lost a little time during the poe battle because he freaking went inside the wall for one shot. So unjust. I guess it doesn't actually make a difference though, since I still had a considerable amount of down-time, waiting for the wedding to start. 27. Nothing too notable here. The Keaton Quiz is ideally placed near the segment beginning, because it's a very random affair. Had a minor equipment screen hiccup outside the milk bar. Fell off the stage in the milk bar, kinda stupid. Playing all that music in the Mlik Bar seems like a disproportionately large amount of work for a completely worthless mask... but I digress. 28. The Spirit House Game is very aggravating. Fighting the 2 middle ghosts together is incredibly random. There's also some randomness involved with the last one, where I had one wasted shot. Overall, the Ikana Secret Shrine was fine. Garo Master went down very smoothly. I used a new strat against Wart, incorporating the Great Fairy's Sword. He also went down very nicely. Wizarobe was all right, but I missed a shot. Lizalfos was very good. Four bosses for one piece of heart seems like overkill, but that's beside the point. Again, lots of downtime waiting for Kafei. Things are basically smooth from there. FYI, although it is possible to enter the sewer by back flipping over the bomber guy, you can't do that here; you won't get the notebook unless you give them the password first. Also note that it's preferably to wait in West Clock Town until midnight to avoid the very long and annoying \"Midnight Cinema.\" 29. The 6 or so minutes of crap at the beginning of this segment are very annoying. Admittedly, I probably should have improved this. My main priority here was to complete the Goron Dungeon in one attempt, which I did. The Deku and Zora Dungeons were also both fine (although its not as if there's really anything to screw up in the Zora one). But the Link dungeon was rather poor. I got hit twice by the iron knuckle, and screwed up the first bombchu task. My equipment order also wasn't completely optimized. Finally, The Majora Battle was imperfect. Since it's probably not immeadiately obvious, it is necessary to adjust your position at the beginning of the battle so that you are more to Majora's side. If you hit him (her? it?) with the projectiles from Oni Link's sword right off that bat, he'll go flying back into the wall and you won't have any more clear shots for a while. The second phase of the battle is all luck. You have to get a lock on him, which can be difficult because he runs around so much, and you also have to worry about the other masks, which hit me twice in this case (argh!). The third phase is pretty simple once you've got the lock-on.",
+      "creator": "Peter 'Dragorn' Branam-Lefkove",
+      "date": "2005-01-01T00:00:00Z",
+      "downloads": 3865467,
+      "license": "Unknown",
+      "rights": "Check archive page for license details",
+      "category": "machinima",
+      "videoFiles": [
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part20.ogv",
+          "originalFilename": "348",
+          "format": "Ogg Video",
+          "size": "96131825",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part20.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/348"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part20.ogv",
+          "originalFilename": "583",
+          "format": "Ogg Video",
+          "size": "96078745",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part20.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/583"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part20.ogv",
+          "originalFilename": "464",
+          "format": "Ogg Video",
+          "size": "95694665",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part20.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/464"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part19.ogv",
+          "originalFilename": "344",
+          "format": "Ogg Video",
+          "size": "92866328",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part19.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/344"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part19.ogv",
+          "originalFilename": "579",
+          "format": "Ogg Video",
+          "size": "92831499",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part19.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/579"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part19.ogv",
+          "originalFilename": "460",
+          "format": "Ogg Video",
+          "size": "92699353",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part19.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/460"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part28.ogv",
+          "originalFilename": "380",
+          "format": "Ogg Video",
+          "size": "86846725",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part28.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/380"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part28.ogv",
+          "originalFilename": "615",
+          "format": "Ogg Video",
+          "size": "86716778",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part28.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/615"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part28.ogv",
+          "originalFilename": "496",
+          "format": "Ogg Video",
+          "size": "86652691",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part28.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/496"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part02.ogv",
+          "originalFilename": "276",
+          "format": "Ogg Video",
+          "size": "83789236",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part02.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/276"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part02.ogv",
+          "originalFilename": "511",
+          "format": "Ogg Video",
+          "size": "82376484",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part02.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/511"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part29.ogv",
+          "originalFilename": "384",
+          "format": "Ogg Video",
+          "size": "81821579",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part29.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/384"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part29.ogv",
+          "originalFilename": "619",
+          "format": "Ogg Video",
+          "size": "81785115",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part29.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/619"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part29.ogv",
+          "originalFilename": "500",
+          "format": "Ogg Video",
+          "size": "81755479",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part29.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/500"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part05.ogv",
+          "originalFilename": "288",
+          "format": "Ogg Video",
+          "size": "80881002",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part05.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/288"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part05.ogv",
+          "originalFilename": "523",
+          "format": "Ogg Video",
+          "size": "80863309",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part05.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/523"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part05.ogv",
+          "originalFilename": "404",
+          "format": "Ogg Video",
+          "size": "80819783",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part05.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/404"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part02.ogv",
+          "originalFilename": "392",
+          "format": "Ogg Video",
+          "size": "79335516",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part02.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/392"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part08.ogv",
+          "originalFilename": "300",
+          "format": "Ogg Video",
+          "size": "78417495",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part08.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/300"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part08.ogv",
+          "originalFilename": "535",
+          "format": "Ogg Video",
+          "size": "77747769",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part08.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/535"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part08.ogv",
+          "originalFilename": "416",
+          "format": "Ogg Video",
+          "size": "77428998",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part08.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/416"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part07.ogv",
+          "originalFilename": "296",
+          "format": "Ogg Video",
+          "size": "74291718",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part07.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/296"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part07.ogv",
+          "originalFilename": "531",
+          "format": "Ogg Video",
+          "size": "74249645",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part07.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/531"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part17.ogv",
+          "originalFilename": "336",
+          "format": "Ogg Video",
+          "size": "73689825",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part17.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/336"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part17.ogv",
+          "originalFilename": "571",
+          "format": "Ogg Video",
+          "size": "73672543",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part17.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/571"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part17.ogv",
+          "originalFilename": "452",
+          "format": "Ogg Video",
+          "size": "73424252",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part17.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/452"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part07.ogv",
+          "originalFilename": "412",
+          "format": "Ogg Video",
+          "size": "73069345",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part07.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/412"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part18.ogv",
+          "originalFilename": "340",
+          "format": "Ogg Video",
+          "size": "72571027",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part18.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/340"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part18.ogv",
+          "originalFilename": "575",
+          "format": "Ogg Video",
+          "size": "72511818",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part18.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/575"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part18.ogv",
+          "originalFilename": "456",
+          "format": "Ogg Video",
+          "size": "72400628",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part18.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/456"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part15.ogv",
+          "originalFilename": "328",
+          "format": "Ogg Video",
+          "size": "70442499",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part15.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/328"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part15.ogv",
+          "originalFilename": "563",
+          "format": "Ogg Video",
+          "size": "70344464",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part15.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/563"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part15.ogv",
+          "originalFilename": "444",
+          "format": "Ogg Video",
+          "size": "69895303",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part15.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/444"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part12.ogv",
+          "originalFilename": "316",
+          "format": "Ogg Video",
+          "size": "69186987",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part12.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/316"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part12.ogv",
+          "originalFilename": "551",
+          "format": "Ogg Video",
+          "size": "69053810",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part12.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/551"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part12.ogv",
+          "originalFilename": "432",
+          "format": "Ogg Video",
+          "size": "69026823",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part12.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/432"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part11.ogv",
+          "originalFilename": "312",
+          "format": "Ogg Video",
+          "size": "67683553",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part11.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/312"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part11.ogv",
+          "originalFilename": "547",
+          "format": "Ogg Video",
+          "size": "67534917",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part11.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/547"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part11.ogv",
+          "originalFilename": "428",
+          "format": "Ogg Video",
+          "size": "67493637",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part11.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/428"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part21.ogv",
+          "originalFilename": "352",
+          "format": "Ogg Video",
+          "size": "64628041",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part21.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/352"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part21.ogv",
+          "originalFilename": "587",
+          "format": "Ogg Video",
+          "size": "64496825",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part21.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/587"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part21.ogv",
+          "originalFilename": "468",
+          "format": "Ogg Video",
+          "size": "63949657",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part21.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/468"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part04.ogv",
+          "originalFilename": "284",
+          "format": "Ogg Video",
+          "size": "63713610",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part04.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/284"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part04.ogv",
+          "originalFilename": "519",
+          "format": "Ogg Video",
+          "size": "63641670",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part04.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/519"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part04.ogv",
+          "originalFilename": "400",
+          "format": "Ogg Video",
+          "size": "63566720",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part04.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/400"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part14.ogv",
+          "originalFilename": "324",
+          "format": "Ogg Video",
+          "size": "58578063",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part14.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/324"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part14.ogv",
+          "originalFilename": "559",
+          "format": "Ogg Video",
+          "size": "58343815",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part14.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/559"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part06.ogv",
+          "originalFilename": "292",
+          "format": "Ogg Video",
+          "size": "58291574",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part06.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/292"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part06.ogv",
+          "originalFilename": "527",
+          "format": "Ogg Video",
+          "size": "58224576",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part06.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/527"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part06.ogv",
+          "originalFilename": "408",
+          "format": "Ogg Video",
+          "size": "58211996",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part06.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/408"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part14.ogv",
+          "originalFilename": "440",
+          "format": "Ogg Video",
+          "size": "57450746",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part14.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/440"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part25.ogv",
+          "originalFilename": "368",
+          "format": "Ogg Video",
+          "size": "56518238",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part25.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/368"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part25.ogv",
+          "originalFilename": "603",
+          "format": "Ogg Video",
+          "size": "56456291",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part25.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/603"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part25.ogv",
+          "originalFilename": "484",
+          "format": "Ogg Video",
+          "size": "56433131",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part25.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/484"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part27.ogv",
+          "originalFilename": "376",
+          "format": "Ogg Video",
+          "size": "53766701",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part27.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/376"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part27.ogv",
+          "originalFilename": "611",
+          "format": "Ogg Video",
+          "size": "53620561",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part27.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/611"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part27.ogv",
+          "originalFilename": "492",
+          "format": "Ogg Video",
+          "size": "53589772",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part27.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/492"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part16.ogv",
+          "originalFilename": "567",
+          "format": "Ogg Video",
+          "size": "53424029",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part16.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/567"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part16.ogv",
+          "originalFilename": "332",
+          "format": "Ogg Video",
+          "size": "53411785",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part16.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/332"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part16.ogv",
+          "originalFilename": "448",
+          "format": "Ogg Video",
+          "size": "53359333",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part16.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/448"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part09.ogv",
+          "originalFilename": "304",
+          "format": "Ogg Video",
+          "size": "49629423",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part09.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/304"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part09.ogv",
+          "originalFilename": "539",
+          "format": "Ogg Video",
+          "size": "49567884",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part09.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/539"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part24.ogv",
+          "originalFilename": "364",
+          "format": "Ogg Video",
+          "size": "49060508",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part24.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/364"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part09.ogv",
+          "originalFilename": "420",
+          "format": "Ogg Video",
+          "size": "49038234",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part09.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/420"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part24.ogv",
+          "originalFilename": "599",
+          "format": "Ogg Video",
+          "size": "48855646",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part24.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/599"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part24.ogv",
+          "originalFilename": "480",
+          "format": "Ogg Video",
+          "size": "48599679",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part24.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/480"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part22.ogv",
+          "originalFilename": "356",
+          "format": "Ogg Video",
+          "size": "46915452",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part22.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/356"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part22.ogv",
+          "originalFilename": "591",
+          "format": "Ogg Video",
+          "size": "46687340",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part22.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/591"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part22.ogv",
+          "originalFilename": "472",
+          "format": "Ogg Video",
+          "size": "46593918",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part22.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/472"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_ending_HQ.ogv",
+          "originalFilename": "627",
+          "format": "Ogg Video",
+          "size": "46392156",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_ending_HQ.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/627"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part03.ogv",
+          "originalFilename": "280",
+          "format": "Ogg Video",
+          "size": "46262623",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part03.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/280"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part03.ogv",
+          "originalFilename": "515",
+          "format": "Ogg Video",
+          "size": "45729974",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part03.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/515"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_ending.ogv",
+          "originalFilename": "623",
+          "format": "Ogg Video",
+          "size": "45258491",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_ending.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/623"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part03.ogv",
+          "originalFilename": "396",
+          "format": "Ogg Video",
+          "size": "45193077",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part03.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/396"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part26.ogv",
+          "originalFilename": "372",
+          "format": "Ogg Video",
+          "size": "43765111",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part26.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/372"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part26.ogv",
+          "originalFilename": "607",
+          "format": "Ogg Video",
+          "size": "43425919",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part26.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/607"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part26.ogv",
+          "originalFilename": "488",
+          "format": "Ogg Video",
+          "size": "42970994",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part26.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/488"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_ending_LQ.ogv",
+          "originalFilename": "631",
+          "format": "Ogg Video",
+          "size": "42198134",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_ending_LQ.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/631"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part01.ogv",
+          "originalFilename": "272",
+          "format": "Ogg Video",
+          "size": "39059106",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part01.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/272"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part01.ogv",
+          "originalFilename": "507",
+          "format": "Ogg Video",
+          "size": "37403636",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part01.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/507"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part01.ogv",
+          "originalFilename": "388",
+          "format": "Ogg Video",
+          "size": "35576219",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part01.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/388"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part10.ogv",
+          "originalFilename": "308",
+          "format": "Ogg Video",
+          "size": "31993538",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part10.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/308"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part10.ogv",
+          "originalFilename": "543",
+          "format": "Ogg Video",
+          "size": "31945962",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part10.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/543"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part10.ogv",
+          "originalFilename": "424",
+          "format": "Ogg Video",
+          "size": "31925485",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part10.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/424"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part23.ogv",
+          "originalFilename": "360",
+          "format": "Ogg Video",
+          "size": "27453855",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part23.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/360"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part23.ogv",
+          "originalFilename": "595",
+          "format": "Ogg Video",
+          "size": "27283176",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part23.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/595"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part23.ogv",
+          "originalFilename": "476",
+          "format": "Ogg Video",
+          "size": "27237359",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part23.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/476"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_HQ_part13.ogv",
+          "originalFilename": "320",
+          "format": "Ogg Video",
+          "size": "18762925",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_HQ_part13.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/320"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_part13.ogv",
+          "originalFilename": "555",
+          "format": "Ogg Video",
+          "size": "18565730",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_part13.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/555"
+        },
+        {
+          "name": "ZeldaMajorasMask_100p_655_LQ_part13.ogv",
+          "originalFilename": "436",
+          "format": "Ogg Video",
+          "size": "18370919",
+          "directLink": "https://archive.org/download/ZeldaMajorasMask_100p_655/ZeldaMajorasMask_100p_655_LQ_part13.ogv",
+          "streamingLink": "https://archive.org/stream/ZeldaMajorasMask_100p_655/436"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/ZeldaMajorasMask_100p_655",
+      "archiveURL": "https://archive.org/details/ZeldaMajorasMask_100p_655"
+    },
+    {
+      "identifier": "Pbtestfilemp4videotestmp4",
+      "title": "test file mp4",
+      "description": "this is a test file for site",
+      "creator": "Pb",
+      "date": "Unknown",
+      "downloads": 28198665,
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+      "rights": "Check archive page for license details",
+      "category": "cartoons",
+      "videoFiles": [
+        {
+          "name": "video_test.mp4",
+          "originalFilename": "10",
+          "format": "MPEG4",
+          "size": "1462498",
+          "directLink": "https://archive.org/download/Pbtestfilemp4videotestmp4/video_test.mp4",
+          "streamingLink": "https://archive.org/stream/Pbtestfilemp4videotestmp4/10"
+        },
+        {
+          "name": "video_test.ogv",
+          "originalFilename": "11",
+          "format": "Ogg Video",
+          "size": "931068",
+          "directLink": "https://archive.org/download/Pbtestfilemp4videotestmp4/video_test.ogv",
+          "streamingLink": "https://archive.org/stream/Pbtestfilemp4videotestmp4/11"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/Pbtestfilemp4videotestmp4",
+      "archiveURL": "https://archive.org/details/Pbtestfilemp4videotestmp4"
+    },
+    {
+      "identifier": "AboutBan1935",
+      "title": "About Bananas",
+      "description": "Complete presentation of the banana industry from the clearing of the jungle and the planting to the shipment of the fruit to the American markets.",
+      "creator": "Castle Films",
+      "date": "1935-01-01T00:00:00Z",
+      "downloads": 27192688,
+      "license": "http://creativecommons.org/licenses/publicdomain/",
+      "rights": "Check archive page for license details",
+      "category": "cartoons",
+      "videoFiles": [
+        {
+          "name": "AboutBan1935.mp4",
+          "originalFilename": "5",
+          "format": "h.264",
+          "size": "68512128",
+          "directLink": "https://archive.org/download/AboutBan1935/AboutBan1935.mp4",
+          "streamingLink": "https://archive.org/stream/AboutBan1935/5"
+        },
+        {
+          "name": "AboutBan1935.ogv",
+          "originalFilename": "7",
+          "format": "Ogg Video",
+          "size": "46417991",
+          "directLink": "https://archive.org/download/AboutBan1935/AboutBan1935.ogv",
+          "streamingLink": "https://archive.org/stream/AboutBan1935/7"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/AboutBan1935",
+      "archiveURL": "https://archive.org/details/AboutBan1935"
+    },
+    {
+      "identifier": "Doctorin1946",
+      "title": "Doctor in Industry (Part I)",
+      "description": "Epic history of industrial medicine in the first half of the 20th century, showing how manufacturers and the medical profession came to terms with one another and culminating in GM's rehabilitation program for returned World War II veterans. Directed by Haford Kerbawy.",
+      "creator": "Handy (Jam) Organization",
+      "date": "1946-01-01T00:00:00Z",
+      "downloads": 13500922,
+      "license": "http://creativecommons.org/licenses/publicdomain/",
+      "rights": "Check archive page for license details",
+      "category": "cartoons",
+      "videoFiles": [
+        {
+          "name": "Doctorin1946.mp4",
+          "originalFilename": "6",
+          "format": "h.264",
+          "size": "117249712",
+          "directLink": "https://archive.org/download/Doctorin1946/Doctorin1946.mp4",
+          "streamingLink": "https://archive.org/stream/Doctorin1946/6"
+        },
+        {
+          "name": "Doctorin1946.ogv",
+          "originalFilename": "8",
+          "format": "Ogg Video",
+          "size": "80489630",
+          "directLink": "https://archive.org/download/Doctorin1946/Doctorin1946.ogv",
+          "streamingLink": "https://archive.org/stream/Doctorin1946/8"
+        }
+      ],
+      "metadataURL": "https://archive.org/metadata/Doctorin1946",
+      "archiveURL": "https://archive.org/details/Doctorin1946"
+    }
+  ]
+}
