@@ -129,6 +129,158 @@ class ArchiveVideoFinder {
                 query: '("cartoon network" OR "cartoon cartoon" OR "adult swim" OR "liquid television" OR "aeon flux" OR "space ghost" OR "harvey birdman" OR "sealab 2021" OR "aqua teen hunger force" OR "perfect hair forever" OR "tom goes to the mayor" OR "wonder showzen") AND mediatype:(movies OR opensource_movies)',
                 filters: [],
                 sort: 'downloads desc'
+            },
+
+            // More Adult Swim cult classics
+            {
+                category: 'adult_swim_extended',
+                query: '("robot chicken" OR "moral orel" OR "superjail" OR "metalocalypse" OR "squidbillies" OR "12 oz mouse" OR "smiling friends" OR "off the air" OR "infomercials" OR "too many cooks") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Sketch comedy and alternative comedy shows
+            {
+                category: 'sketch_comedy',
+                query: '("key and peele" OR "key & peele" OR "whitest kids u know" OR "wkuk" OR "mr show" OR "chappelle show" OR "mad tv" OR "in living color" OR "the state" OR "human giant" OR "upright citizens brigade") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Early YouTube comedy era
+            {
+                category: 'early_youtube_comedy',
+                query: '("smosh" OR "collegehumor" OR "derrick comedy" OR "lonely island" OR "epic meal time" OR "freddiew" OR "corridor digital" OR "h3h3" OR "idubbz" OR "filthy frank") AND (comedy OR funny OR sketch OR parody) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Cult anime and edgy animation
+            {
+                category: 'cult_anime',
+                query: '("cowboy bebop" OR "flcl" OR "trigun" OR "hellsing" OR "elfen lied" OR "paranoia agent" OR "serial experiments lain" OR "ghost in the shell" OR "akira" OR "evangelion" OR "perfect blue") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Internet animation classics
+            {
+                category: 'internet_animation',
+                query: '("happy tree friends" OR "eddsworld" OR "asdf movie" OR "charlie the unicorn" OR "llamas with hats" OR "don\'t hug me i\'m scared" OR "cyanide and happiness" OR "dick figures") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Gaming comedy and animation
+            {
+                category: 'gaming_comedy_creators',
+                query: '("game grumps" OR "egoraptor" OR "jontron" OR "avgn" OR "angry video game nerd" OR "nostalgia critic" OR "gmod idiot box" OR "sfm animation" OR "team fabulous") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // 90s/2000s Nickelodeon weird era
+            {
+                category: 'nickelodeon_weird',
+                query: '("invader zim" OR "rocko\'s modern life" OR "courage the cowardly dog" OR "angry beavers" OR "catdog" OR "aaahh real monsters" OR "kablam" OR "action league now") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // More edgy adult cartoons
+            {
+                category: 'edgy_adult_cartoons',
+                query: '("drawn together" OR "ugly americans" OR "brickleberry" OR "mr pickles" OR "paradise pd" OR "bordertown" OR "legends of chamberlain heights") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Classic viral internet videos and phenomena
+            {
+                category: 'viral_internet_classics',
+                query: '("numa numa" OR "chocolate rain" OR "keyboard cat" OR "leeroy jenkins" OR "all your base" OR "badger badger" OR "peanut butter jelly time" OR "dramatic chipmunk" OR "evolution of dance") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Alternative comedy specials and stand-up
+            {
+                category: 'alternative_standup',
+                query: '("bo burnham" OR "maria bamford" OR "reggie watts" OR "tim heidecker" OR "hannibal buress" OR "doug stanhope" OR "louis ck" OR "patton oswalt") AND (comedy OR standup OR "stand up" OR special) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Internet horror/creepy comedy
+            {
+                category: 'internet_horror_comedy',
+                query: '("local 58" OR "unedited footage of a bear" OR "this house has people in it" OR "marble hornets" OR "everymanhybrid" OR "creepypasta reading" OR "scp foundation") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Late night talk and absurdist interviews
+            {
+                category: 'late_night_absurdist',
+                query: '("conan" OR "between two ferns" OR "nathan for you" OR "comedy bang bang" OR "tim and eric" OR "space ghost coast to coast") AND (interview OR talk OR comedy) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Psychedelic and trippy visual content
+            {
+                category: 'psychedelic_visuals',
+                query: '("psychedelic" OR "trippy" OR "fractal" OR "kaleidoscope" OR "visual trip" OR "acid visuals" OR "colorful animation" OR "abstract visuals" OR "optical illusion" OR "visual hallucination") AND (animation OR video OR visual) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Music videos - visually creative
+            {
+                category: 'music_videos_creative',
+                query: '("music video" OR "official video" OR "animated music video" OR "visual album") AND (animation OR animated OR trippy OR psychedelic OR creative OR artistic OR experimental) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Vaporwave and aesthetic videos
+            {
+                category: 'vaporwave_aesthetic',
+                query: '("vaporwave" OR "synthwave" OR "retrowave" OR "aesthetic" OR "seapunk" OR "mallsoft" OR "future funk" OR "a e s t h e t i c") AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Motion graphics and visual design
+            {
+                category: 'motion_graphics',
+                query: '("motion graphics" OR "kinetic typography" OR "animated typography" OR "logo animation" OR "visual design" OR "graphic animation" OR "title sequence") AND (creative OR colorful OR experimental) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Stop motion and claymation comedy
+            {
+                category: 'stop_motion_comedy',
+                query: '("stop motion" OR "claymation" OR "clay animation" OR "lego animation" OR "brick film" OR "puppet animation") AND (funny OR comedy OR weird OR bizarre) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Absurdist and surreal short films
+            {
+                category: 'absurdist_shorts',
+                query: '("surreal" OR "absurd" OR "bizarre" OR "weird" OR "strange") AND ("short film" OR animation OR "experimental film" OR comedy) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
+            },
+
+            // Visual effects compilations and demos
+            {
+                category: 'vfx_demos',
+                query: '("visual effects" OR "vfx" OR "cgi" OR "special effects" OR "sfx demo" OR "cg animation" OR "3d animation") AND (demo OR reel OR compilation OR showcase) AND mediatype:(movies OR opensource_movies)',
+                filters: [],
+                sort: 'downloads desc'
             }
         ];
     }
@@ -182,12 +334,12 @@ class ArchiveVideoFinder {
 
             if (data && data.files) {
                 // Find video files and their direct links
-                const videoFiles = [];
+                const allVideoFiles = [];
 
                 for (const [filename, fileData] of Object.entries(data.files)) {
                     // Look for common video formats
                     if (this.isVideoFile(filename, fileData.format)) {
-                        // Use Arfechive.org's actual file server format
+                        // Use Archive.org's actual file server format
                         const directLink = fileData.name ?
                             `https://archive.org/download/${identifier}/${fileData.name}` :
                             `https://archive.org/download/${identifier}/${encodeURIComponent(filename)}`;
@@ -245,7 +397,7 @@ class ArchiveVideoFinder {
                     // Detect if file is audio-only or has video
                         const mediaType = this.detectMediaType(filename, fileData.format);
 
-                        videoFiles.push({
+                        allVideoFiles.push({
                             name: fileData.name || filename,
                             originalFilename: filename,
                             format: fileData.format || this.getFileFormat(filename),
@@ -260,22 +412,19 @@ class ArchiveVideoFinder {
                     }
                 }
 
+                // Only include MP4 files - sorted by size (largest first)
+                // Archive.org uses "MPEG4" format label for MP4 files
+                const videoFiles = allVideoFiles
+                    .filter(file => {
+                        const format = (file.format || '').toLowerCase();
+                        const filename = (file.name || '').toLowerCase();
+                        return format === 'mp4' || format === 'mpeg4' || filename.endsWith('.mp4');
+                    })
+                    .sort((a, b) => (b.size || 0) - (a.size || 0));
+
                 return {
                     ...data,
-                    videoFiles: videoFiles.sort((a, b) => {
-                        // Strong MP4 priority - MP4 should always come first when available
-                        const formatPriority = { 'mp4': 100, 'webm': 50, 'ogv': 10 };
-                        const aPriority = formatPriority[a.format?.toLowerCase()] || 0;
-                        const bPriority = formatPriority[b.format?.toLowerCase()] || 0;
-
-                        // Primary sort: MP4 priority (MP4 first)
-                        if (aPriority !== bPriority) {
-                            return bPriority - aPriority;
-                        }
-
-                        // Secondary sort: file size (larger files usually better quality)
-                        return (b.size || 0) - (a.size || 0);
-                    })
+                    videoFiles: videoFiles
                 };
             }
 
